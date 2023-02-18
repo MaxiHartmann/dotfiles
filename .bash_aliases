@@ -11,6 +11,7 @@ alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias diff='diff --color=auto'
 alias e='exit'
+alias i='/usr/bin/ipython3'
 
 TMUX_CONFIG="~/.config/tmux/.tmux.conf"
 
